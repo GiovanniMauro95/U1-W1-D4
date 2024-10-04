@@ -3,8 +3,8 @@ body{
     width: 450px;
     font-family: "Poppins";
     text-align: center;
-    margin-left: 33%;
-    margin-right: 33%;
+    margin-left: auto;
+    margin-right: auto;
     background-image: url(../img/sfondo.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -108,6 +108,11 @@ iframe{
     width: 80%;
     border-radius: 25px;
 
+}
+body > div{
+    width: 80%;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 /* ELEMENTI NEL MAIN - ARTICLE */
