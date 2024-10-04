@@ -9,8 +9,13 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-
     
+    
+}
+body > div{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* HEADER */header{
@@ -108,11 +113,6 @@ iframe{
     width: 80%;
     border-radius: 25px;
 
-}
-body > div{
-    width: ;
-    margin-left: 20px;
-    margin-right: 20px;
 }
 
 /* ELEMENTI NEL MAIN - ARTICLE */
